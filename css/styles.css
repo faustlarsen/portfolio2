@@ -1,4 +1,4 @@
-
+/*buttons*/
 ul {
   float: right;
   list-style-type: none;
@@ -16,7 +16,7 @@ ul li a {
   border: 0.1px solid black;
   transition: 0.6s ease;  
 }
-
+/*line 161 bootstrap takes away underline*/
 ul li a:hover{
   background-color: black;
   color: white; 
@@ -26,6 +26,7 @@ a {
   text-decoration: none;
 }
 
+/*aboutme*/
 .box1 {
   border-radius: 20px;
   float: right;
@@ -42,28 +43,33 @@ a {
 
 }
 
-.special {
+.hi {
   font-family: 'Handlee', cursive;
 }
 
+
+/*portfolio*/
 .box2 {
   border-radius: 20px;
   float: left;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   margin-top: 20px;
   margin-left: 20px;
   width: 30%;
   height: 62%;
   border: solid black;
   border-width: 1px;
-  background-color: rgb(247, 247, 246);
+  background: transparent;
   text-align: center;
   color:black;
-  font-size: 16px;
+  font-size: 15px;
   letter-spacing: 4px;
-  line-height: 4;
-  font-weight: bold;
+  line-height: 5;
+  font-family: 'Press Start 2P', cursive;
   
 }
 
   
+.title {
+  font-size: 20px;
+}
+

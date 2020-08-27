@@ -17,7 +17,6 @@
 
 _This is a portfolio landing page which lists info about the developer and his projects._
 https://faustlarsen.github.io/portfolio2/
-https://faustlarsen.github.io/portfolio/
 
   
 
